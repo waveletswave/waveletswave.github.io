@@ -1,0 +1,22 @@
+/* Define a subtle gray-blue accent color */
+:root {
+  --accent-color: #4a6785; /* You can replace this with any shade of gray-blue you prefer */
+}
+
+/* Top site title */
+.site-title {
+  color: var(--accent-color) !important;
+}
+
+/* Post list heading: "song’s scribbles" */
+.post-list-heading {
+  color: var(--accent-color);
+}
+
+/* Footer tagline */
+.site-footer .footer-heading {
+  font-size: 0.8rem;   /* Smaller than body text */
+  color: var(--accent-color);
+  text-align: center;  /* Centered for a cleaner look */
+  font-weight: normal; /* Lighter weight for elegance */
+}

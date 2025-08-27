@@ -3,3 +3,8 @@ description: "song’s scribbles"
 theme: minima
 
 markdown: kramdown
+
+minima:
+  skin: classic
+  custom_css:
+    - /assets/css/custom.css
