@@ -1,0 +1,28 @@
+---
+---
+
+@import "minima";
+
+/* Accent color */
+$accent: #4a6785;
+
+/* Top site title link (left header) */
+.site-title,
+.site-title:link,
+.site-title:visited {
+  color: $accent !important;
+}
+
+/* Post list heading: "song’s scribbles" */
+.post-list-heading {
+  color: $accent;
+}
+
+/* Footer tagline */
+.site-footer .footer-heading {
+  font-size: 0.8rem;     /* smaller */
+  color: $accent;        /* gray-blue */
+  text-align: center;    /* centered */
+  font-weight: normal;   /* lighter */
+  margin: 0.75rem 0;     /* a little breathing room */
+}
