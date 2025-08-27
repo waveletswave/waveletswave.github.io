@@ -1,5 +1,5 @@
 ---
-layout: home_no_rss
+layout: home
 title: "waveletswave"
 ---
 
