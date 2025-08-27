@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: home_no_rss
+title: "Song | waveletswave"
 ---
 
-Ironman dreams + PhD struggles = my daily science & sweat (≈ sweet) diary.
+
 
